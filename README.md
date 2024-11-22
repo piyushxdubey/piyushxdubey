@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @piyushxdubey
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning jawa
+- 🌱 I’m currently learning java
 - 📫 How to reach me piyushxdub
 - 😄 Pronouns: piyush
 - ⚡ Fun fact: just go with the flow
